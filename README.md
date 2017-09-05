@@ -32,5 +32,7 @@ Examples where momentum is carried from one animation to another.
 Examples where animations simultaneously interact.
 
 - Chained springs (balls)
-- Chained springs (UI example)
+- Chained springs (UI example) *
+
+* This example inspired (with apologies) by a screen in Plaid, by <a href="https://twitter.com/crafty">Nick Butcher</a>. Check out his original: https://github.com/nickbutcher/plaid
 
